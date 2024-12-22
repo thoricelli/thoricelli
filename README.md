@@ -22,6 +22,7 @@ Not much of what I made back then is public now though, I wouldn't want anyone t
   - Using tools like Ghidra or IDA
 - Low-code firmware or software
 - Desktop and browser applications
+- Opening everything I get my hands onto!
 
 ### My non-programming hobbies
 - Drawing
@@ -38,7 +39,7 @@ Not much of what I made back then is public now though, I wouldn't want anyone t
   <summary><h2>Projects I'm currently working on</h2></summary>
     <p align="center">
       <a href="https://github.com/thoricelli/Innovation-Uniform-Editor.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoricelli&repo=Innovation-Uniform-Editor" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoricelli&repo=Innovation-Uniform-Editor&theme=dark" alt="GitHub Stats" />
     </a>
   </p>
 </details> 
@@ -52,8 +53,8 @@ Not much of what I made back then is public now though, I wouldn't want anyone t
 
 <div align="center">
   <a href="https://github.com/thoricelli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thoricelli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thoricelli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thoricelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thoricelli&show_icons=true&locale=en&layout=compact&theme=dark&hide_rank=true" alt="RResabala2015"/>
   </a>
 </div>
 
