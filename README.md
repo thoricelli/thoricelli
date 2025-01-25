@@ -10,6 +10,9 @@
   <a href="https://www.youtube.com/@thoricelli">
     <img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
+  <a href="https://thoricelli.github.io/personal-website/">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
 <details open> 
@@ -19,7 +22,7 @@ Not much of what I made back then is public now though, I wouldn't want anyone t
 
 ### I enjoy
 - Reverse engineering
-  - Using tools like Ghidra or IDA
+  - Using tools like Ghidra
 - Low-code firmware or software
 - Desktop and browser applications
 - Opening everything I get my hands onto!
