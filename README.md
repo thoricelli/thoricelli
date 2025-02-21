@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/29801268?v=4&h=300&w=300&fit=cover&mask=circle&maxage=1d" />
+  <br>
+  <sub><em>All credit goes to <a href="https://www.roblox.com/users/25701152/profile">Prettyeire</a> for the profile picture.</em></sub>
 </p>
 
 <p align="center">
