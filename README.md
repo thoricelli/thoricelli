@@ -1,7 +1,7 @@
 # Hi! I'm Thor 👋
 
 <p align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/29801268?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/29801268?v=4&h=300&w=300&fit=cover&mask=circle&maxage=1d" />
 </p>
 
 <p align="center">
