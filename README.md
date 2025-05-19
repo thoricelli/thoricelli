@@ -46,8 +46,8 @@ Not much of what I made back then is public now though, I wouldn't want anyone t
       <a href="https://github.com/thoricelli/Innovation-Uniform-Editor.git">
         <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=thoricelli&repo=Innovation-Uniform-Editor&theme=dark" alt="GitHub Stats" />
     </a>
-      <a href="https://github.com/thoricelli/PICO-documentation.git">
-        <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=thoricelli&repo=PICO-documentation&theme=dark" alt="GitHub Stats" />
+      <a href="https://github.com/thoricelli/SH7337-Emulator.git">
+        <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=thoricelli&repo=SH7337-Emulator&theme=dark" alt="GitHub Stats" />
     </a>
   </p>
 </details> 
