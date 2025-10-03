@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  A Belgian IT student trying to get his foot into the programming world.
+  A Belgian IT developer trying to get his foot into the programming world.
   <br><br>
   <a href="https://www.youtube.com/@thoricelli">
     <img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
@@ -34,8 +34,6 @@ Not much of what I made back then is public now though, I wouldn't want anyone t
   - From time to time in Clip Paint Studio
 - Music
   - Very amateur beats in FL Studio
-- 3D modelling & animation
-  - Very unoptimized models in Blender :)
 - Video editing
   - Slideshows!
 </details>
@@ -50,11 +48,6 @@ Not much of what I made back then is public now though, I wouldn't want anyone t
         <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=thoricelli&repo=SH7337-Emulator&theme=dark" alt="GitHub Stats" />
     </a>
   </p>
-</details> 
-
-<details open> 
-  <summary><h2>My plans for the future</h2></summary>
-    I'm planning to work on my <a href="https://www.youtube.com/@thoricelli">YouTube channel</a> again, and make video essays!
 </details> 
 
 ## And as a bonus, some statistics
