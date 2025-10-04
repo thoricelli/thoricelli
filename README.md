@@ -12,8 +12,8 @@
   <a href="https://www.youtube.com/@thoricelli">
     <img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
-  <a href="https://thoricelli.github.io/personal-website/">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white&style=for-the-badge"/>
+  <a href="https://thorgoesdevving.com">
+    <img src="https://img.shields.io/badge/Website-121013?logo=htmx&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
