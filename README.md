@@ -42,10 +42,10 @@ Not much of what I made back then is public now though, I wouldn't want anyone t
   <summary><h2>Projects I'm currently working on</h2></summary>
     <p align="center">
       <a href="https://github.com/thoricelli/Innovation-Uniform-Editor.git">
-        <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=thoricelli&repo=Innovation-Uniform-Editor&theme=dark" alt="GitHub Stats" />
+        <img height=125 src="https://github-readme-stats-fast.vercel.app/api/pin/?username=thoricelli&repo=Innovation-Uniform-Editor&theme=dark" alt="GitHub Stats" />
     </a>
       <a href="https://github.com/thoricelli/SH7337-Emulator.git">
-        <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=thoricelli&repo=SH7337-Emulator&theme=dark" alt="GitHub Stats" />
+        <img height=125 src="https://github-readme-stats-fast.vercel.app/api/pin/?username=thoricelli&repo=SH7337-Emulator&theme=dark" alt="GitHub Stats" />
     </a>
   </p>
 </details> 
@@ -54,8 +54,8 @@ Not much of what I made back then is public now though, I wouldn't want anyone t
 
 <div align="center">
   <a href="https://github.com/thoricelli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thoricelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thoricelli&show_icons=true&locale=en&layout=compact&theme=dark&hide_rank=true" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=thoricelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=thoricelli&show_icons=true&locale=en&layout=compact&theme=dark&hide_rank=true" alt="RResabala2015"/>
   </a>
 </div>
 
