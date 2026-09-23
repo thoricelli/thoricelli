@@ -1,4 +1,4 @@
-# Hi! I'm Thor 👋
+# Hi!
 
 <p align="center">
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/29801268?v=4&h=300&w=300&fit=cover&mask=circle&maxage=1d" />
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  A Belgian IT developer trying to get his foot into the programming world.
+  A Belgian Software Developer.
   <br><br>
   <a href="https://www.youtube.com/@thoricelli">
     <img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
@@ -17,40 +17,35 @@
   </a>
 </p>
 
-<details open> 
-  <summary><h2>About me</h2></summary>
-I've been developing since I was a kid.<br>
-Not much of what I made back then is public now though, I wouldn't want anyone to see that code!
+## About me
+I am a Software Developer graduate.  
+I help as a programmer on [Ultimate Mining Tycoon](https://www.roblox.com/games/18680867089/Ultimate-Mining-Tycoon) on ROBLOX.
 
-### I enjoy
-- Reverse engineering
-  - Using tools like Ghidra
-- Low-code firmware or software
-- Desktop and browser applications
-- Opening everything I get my hands onto!
+Every project I put online on GitHub is FOSS, for you to use, I use the MIT license for nearly all of them.  
+I ask that you please do credit me if you plan to use my code in your projects.
 
-### My non-programming hobbies
-- Drawing
-  - From time to time in Clip Paint Studio
-- Music
-  - Very amateur beats in FL Studio
-- Video editing
-  - Slideshows!
-</details>
+I have a passion for making software that is:
+- Useful for its users.
+- Optimized as much as possible.
+- Clean, elegant and easy to understand for other collaborators.
 
-<details open> 
-  <summary><h2>Projects I'm currently working on</h2></summary>
-    <p align="center">
-      <a href="https://github.com/thoricelli/Innovation-Uniform-Editor.git">
-        <img height=125 src="https://github-readme-stats-fast.vercel.app/api/pin/?username=thoricelli&repo=Innovation-Uniform-Editor&theme=dark" alt="GitHub Stats" />
-    </a>
-      <!--<a href="https://github.com/thoricelli/SH7337-Emulator.git">
-        <img height=125 src="https://github-readme-stats-fast.vercel.app/api/pin/?username=thoricelli&repo=SH7337-Emulator&theme=dark" alt="GitHub Stats" />
-    </a>-->
-  </p>
-</details> 
+I love problem solving, creating and diving deep into *how* things work.  
+It is one of the reasons I am drawn to this field.
 
-## And as a bonus, some statistics
+Fields I am familiar with:
+- Web Development (Full-stack: Angular, C#, SQL)
+- Low-level programming (C, C++)
+
+## My stance on AI
+I do not use agentic AI tools, I will **never ever** use agentic coding for my projects.  
+It defeats the purpose and joy that programming brings to me.
+
+The only use case I have for AI is using it as a glorified search engine (and often it lies or doesn't know what it is talking about).
+
+I believe that having knowledge of what I am programming is far more important.  
+Most of the time I work on niche problems that do not have a lot of documentation or training data.
+
+## Some statistics
 
 <div align="center">
   <a href="https://github.com/thoricelli">
@@ -60,4 +55,9 @@ Not much of what I made back then is public now though, I wouldn't want anyone t
 </div>
 
 ## Want to support me?
+Whether you want to support me is up to you.  
+
+My software is free, but if you feel obliged to support me feel free to do so to show your support.  
+Thank you for your consideration.
+
 <p><a href="https://ko-fi.com/thoricelli"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thoricelli" /></a></p>
